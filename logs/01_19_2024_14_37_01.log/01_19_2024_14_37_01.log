@@ -1,0 +1,6 @@
+[ 2024-01-19 14:37:02,316 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2024-01-19 14:37:02,316 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-01-19 14:37:04,878 ] 25 root - INFO - Data Ingestion method starts
+[ 2024-01-19 14:37:05,067 ] 29 root - INFO - Dataset read as pandas Dataframe
+[ 2024-01-19 14:37:06,676 ] 35 root - INFO - Train test split
+[ 2024-01-19 14:37:07,878 ] 41 root - INFO - Ingestion of data is completed
